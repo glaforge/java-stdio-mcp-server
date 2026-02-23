@@ -1,6 +1,11 @@
 ---
 name: jbang-mcp-server
 description: Scaffolds and installs zero boilerplate Java-based MCP STDIO servers using JBang and LangChain4j for Gemini CLI. Use this to quickly bootstrap an MCP server from scratch.
+license: Apache-2.0
+compatibility: Requires a modern version of Java, and the installation of the JBang command-line tool
+metadata:
+    author: Guillaume Laforge
+    version: "0.1"
 ---
 
 # JBang LangChain4j MCP Server Creator
